@@ -1,11 +1,11 @@
 # Flutter Flavors [![CII Best Practices](https://img.shields.io/badge/platform-ios%20%7C%20android-%23989898)](https://bestpractices.coreinfrastructure.org/projects/5631) [![](https://img.shields.io/badge/Flutter-3.0-blue)](https://docs.flutter.dev/development/tools/sdk/releases) [![](https://img.shields.io/badge/Xcode-13.4.1-red)]()
 
 ## Table of content
-- [Basic Configurations](#basic-configurations)
+- [Name, Identifier, Name](#basic-configurations)
 - [Application Icon](#application-icon)
 - [Android Google Service json file](#android-google-service-json-file)
 
-## Basic Configurations
+## Name, Identifier, Name
 - Name
 - Bundle Indentifier
 - Application Name
@@ -23,6 +23,8 @@
 
 ## Application Icon
 #### Android steps:
+![](/android-flavor.png)
+![](/android-manifest.png)
 ![](/android-appicon.png)
 
 #### iOS steps: 
